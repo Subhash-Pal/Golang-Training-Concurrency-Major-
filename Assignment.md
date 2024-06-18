@@ -21,3 +21,6 @@ if the task takes more than 3 seconds, the program should print a timeout messag
 Assignment 5: Pipeline Pattern
 Problem:
 Implement a pipeline pattern in Go where one goroutine generates numbers, another squares them, and a third prints the squared numbers.
+
+
+Project : Create a FanIn design pattern to mearge two or more generator output into one consumer . Like date read from  extern disk file or number generator and use this as generator function . create a consumer function to mearge this generator value into consumer . 
